@@ -7,4 +7,4 @@
 **Running**  
 - Run the rails server: `rails s`
 - Run the puma server (this server is for websocket): `./bin/cable`
-
+- Run the redis server
